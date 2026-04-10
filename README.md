@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍬 CandyZone — Movie Streaming & Listing Website
 
 A Netflix-style movie website built with **Next.js 14** where admins can upload movies with posters and external streaming/download links.
@@ -82,3 +83,7 @@ npx vercel
 ## 📄 License
 
 MIT © CandyZone
+=======
+# candy-zone
+Netflix-style movie streaming &amp; listing website built with Next.js 14
+>>>>>>> da3ac10b43d2ecf98177e59a867af86649a2229d
